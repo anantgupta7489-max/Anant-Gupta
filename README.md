@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anant Gupta</h1>
 <h3 align="center">A passionate software engineering from India</h3>
-* align="center">Currently pursuing B.Tech from RJIT Takenpur, Gwalior
+* Currently pursuing B.Tech from RJIT Takenpur, Gwalior
+
 - 📫 How to reach me **anantgupta7489@gmail.com**
 
 - ⚡ Fun fact **I Think I Am Funny**
