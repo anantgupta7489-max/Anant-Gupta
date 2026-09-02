@@ -2,7 +2,7 @@ Hi!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 * 🌍  India
-* ✉️  Contact me at [sapnag255@gmail.coom](mailto:anantgupta7489@gmail.coom)
+* ✉️  Contact me at [anantgupta7489@gmail.coom](mailto:anantgupta7489@gmail.coom)
 * 🧠  Currently Pursuing B.Tech in Computer Science from RJIT Takenpur, Gwalior
 * 🤝  Open to collaborating on Projects
 
