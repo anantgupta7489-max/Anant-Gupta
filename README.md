@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I Think I Am Funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> anantgupta7489@gmail.com
 <p align="left">
 </p>
 
