@@ -2,14 +2,14 @@ Hi!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 * 🌍  India
-* ✉️  Contact me at [sapnag255@gmail.coom](mailto:sapnag255@gmail.coom)
+* ✉️  Contact me at [sapnag255@gmail.coom](mailto:anantgupta7489@gmail.coom)
 * 🧠  Currently Pursuing B.Tech in Computer Science from RJIT Takenpur, Gwalior
 * 🤝  Open to collaborating on Projects
 
 <h3 align="left">Connect with me:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/anant-gupta" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anant-gupta" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/anant-gupta7489" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anant-gupta7489" height="30" width="40" />
   </a>
 </p>
 
